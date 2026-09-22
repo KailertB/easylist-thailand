@@ -191,3 +191,16 @@ nung2-hdd.com##div[class^="rIdV-"]
 
 ! $media,domain=steamseries88.com
 /ufathai24-1.mp4
+
+! 037hddmovies.com
+037hddmovies.com###ads-index, #ads-sidebar, #ads-sidebar-single-bottom, #ads-sidebar-single-top, #ads-single
+
+! 24-hda.com
+24-hda.com##div > .ad, div.adcen, div.adhl, div.adl
+
+! moviedofree.com
+moviedofree.com##a[href*="bit.ly/"], a[href*="lin.ee/"], a[href*="line.me/"]
+moviedofree.com##a[href*="ufa007"], a[href*="ufa147"], a[href*="ufa345"], a[href*="ufa356"], a[href*="ufa365"], a[href*="ufa88"], a[href*="ufa999"], a[href*="ufabet"]
+
+! dunung24.com
+dunung24.com##[aria-label="โฆษณา"]
